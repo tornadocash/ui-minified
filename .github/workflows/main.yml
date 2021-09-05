@@ -22,6 +22,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Skynet Deploy
-        uses: SkynetLabs/deploy-to-skynet-action@v2.0.1
+      - name: Deploy to Skynet
+        uses: SkynetLabs/deploy-to-skynet-action@v2
+        with:
+          upload-dir: .
 
