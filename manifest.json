@@ -1,6 +1,7 @@
 {
     "name": "Tornado Cash",
     "short_name": "Tornado Cash",
+    "description": "Tornado Cash UI",
     "icons": [
         {
             "src": "/favicon/android-chrome-192x192.png",
@@ -15,5 +16,6 @@
     ],
     "theme_color": "#000403",
     "background_color": "#000403",
-    "display": "standalone"
+    "display": "standalone",
+    "skylink": "KABlpCK6x-PmLeSODAZY0l-9UViEUx1SP2rgrF9jmeqycQ"
 }
