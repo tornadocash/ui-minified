@@ -25,5 +25,5 @@ jobs:
       - name: Deploy to Skynet
         uses: SkynetLabs/deploy-to-skynet-action@v2
         with:
-          upload-dir: .
+          upload-dir: /
 
